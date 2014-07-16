@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Prata-Regular.otf.GlyphOrder.ttx"/>
+  <head src="Prata-Regular.otf._h_e_a_d.ttx"/>
+  <hhea src="Prata-Regular.otf._h_h_e_a.ttx"/>
+  <maxp src="Prata-Regular.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Prata-Regular.otf.O_S_2f_2.ttx"/>
+  <hmtx src="Prata-Regular.otf._h_m_t_x.ttx"/>
+  <VDMX src="Prata-Regular.otf.V_D_M_X_.ttx"/>
+  <cmap src="Prata-Regular.otf._c_m_a_p.ttx"/>
+  <loca src="Prata-Regular.otf._l_o_c_a.ttx"/>
+  <glyf src="Prata-Regular.otf._g_l_y_f.ttx"/>
+  <kern src="Prata-Regular.otf._k_e_r_n.ttx"/>
+  <name src="Prata-Regular.otf._n_a_m_e.ttx"/>
+  <post src="Prata-Regular.otf._p_o_s_t.ttx"/>
+  <gasp src="Prata-Regular.otf._g_a_s_p.ttx"/>
+  <GDEF src="Prata-Regular.otf.G_D_E_F_.ttx"/>
+  <GPOS src="Prata-Regular.otf.G_P_O_S_.ttx"/>
+</ttFont>
