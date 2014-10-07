@@ -1,0 +1,33 @@
+{
+  "name": "Prata",
+  "designer": "Cyreal",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 18209,
+  "fonts": [
+    {
+      "name": "Prata",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Prata-Regular-TTF.ttf",
+      "postScriptName": "Prata-Regular",
+      "fullName": "Prata",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\nwith Reserved Font Name \"Prata\" and \"Prata Regular\"."
+    },
+    {
+      "name": "Prata",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Prata-Regular.ttf",
+      "postScriptName": "Prata-Regular",
+      "fullName": "Prata",
+      "copyright": "Copyright (c) 2011, Cyreal (www.cyreal.org)\rwith Reserved Font Name \"Prata\" and \"Prata Regular\".\r\rThis Font Software is licensed under the SIL Open Font License,\rVersion 1.1. This license is available with a FAQ at:\rhttp://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-09-07"
+}
